@@ -38,7 +38,7 @@ const Home = () =>{
     return(
         <div className="homeCont">
             <header className="homeHeader">
-                <label className="homeTitle">Bienvenidos a este tutorial Básico de React</label>
+                <label className="homeTitle">Bienvenidos a este tutorial Básico de React y Git</label>
             </header>
             <div className="slider">
 

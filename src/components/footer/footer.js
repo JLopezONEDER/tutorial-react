@@ -14,7 +14,7 @@ export default class Footer extends React.Component{
                 <div className="footerSocial">
                     <div className="footerSocialLink">Twitter</div>
                     <div className="footerSocialLink">Instagram</div>
-                    <div className="footerSocialLink">Tiktok</div>
+                    <div className="footerSocialLink">Facebook</div>
                     <div className="footerSocialLink">Youtube</div>
                 </div>
             </footer>

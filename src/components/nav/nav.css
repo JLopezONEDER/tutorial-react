@@ -1,0 +1,35 @@
+
+.navContainer{
+    width: 100%;
+    height: 140px;
+    background-color: rgba(0, 0, 255, 0.349);
+    display: flex;
+    flex-direction: row;
+}
+.navLogo{
+    width: 40%;
+    padding: 10px;
+}
+.navMenu{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.navItem{
+    width: 20%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.navItem:hover{
+    background-color: rgba(0, 0, 255, 0.479);
+}
+.navLink{
+    text-decoration: none;
+    color: springgreen;
+    font-size: 25px;
+}

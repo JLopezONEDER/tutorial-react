@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 
 import './home.css';
 
+
+//Cambio desde otro proyecto
 const Home = () =>{
     const [curSlide, setCurSlide] = useState(0);
     const [maxSlide, setMaxSlide] = useState(0);
